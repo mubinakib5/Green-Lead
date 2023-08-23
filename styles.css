@@ -55,7 +55,7 @@
     display: flex;
 }
 .launch-time div{
-    flex-basis: 100px;
+    flex-basis: 160px;
 }
 .launch-time div p{
     font-size: 60px;
